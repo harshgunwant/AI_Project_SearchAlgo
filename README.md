@@ -12,4 +12,5 @@ I have watched few youtube videos and blogs for my reference. The links are prov
 5. A* with the Euclidean Distance heuristic (https://youtube.com/shorts/N0FNwaJ7htA?feature=share) 
 6. A* with Euclidean and Manhattan comparison. (https://youtu.be/YooweZVcNpE)
 
+Note: The .ipynb file corresponds to the graphs that were plotted.
 
