@@ -15,3 +15,5 @@ I have watched few youtube videos and blogs for my reference. The links are prov
 
 Note: The .ipynb file corresponds to the graphs that were plotted. 
 
+Note: Additionally I have also tried making it more real (that is giving it a GUI) using JavaFX. Tried implementing it in the PuzzleSolverGUI.java file.This will be in progress...
+
