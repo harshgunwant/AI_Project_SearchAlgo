@@ -1,5 +1,6 @@
 # AI_Project_SearchAlgo
-Note: The code for this project (CS 205) is in the AI_ProjectFinal1 and NOT in production.
+Note: The code for this project (CS 205) is in the AI_ProjectFinal1. I have implemented this in Java Language.
+
 Here I have solved 8 piece puzzle using 3 Algorithms: 
 1. Uniform cost search 
 2. A* with misplaced tile heuristic 
